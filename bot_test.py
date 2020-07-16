@@ -66,4 +66,4 @@ async def start_attendence(ctx): #command to start attendce
     except HTTPException: #if failing reason is smh else
         await ctx.send("Can't add reactions")
 
-bot.run("NzAzMTY0NzE5NDg5NjEzODM1.XwWkOw.vGI8s-YGEZio9-eLsEvDb1KtIiE")
+bot.run("Token")
